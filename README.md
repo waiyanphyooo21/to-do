@@ -2,6 +2,18 @@
 
 A modern, feature-rich to-do list application built with HTML, CSS, and JavaScript. This application helps you manage your tasks efficiently with a beautiful and intuitive user interface.
 
+## 🌐 Live Demo
+
+🔗 [View Website](https://waiyanphyooo21.github.io/to-do/)
+
+## 📸 Screenshots
+
+### 🌙 Dark Mode  
+![Dark Mode](screenshoots/preview_dark.png)
+
+### ☀️ Light Mode  
+![Light Mode](screenshoots/preview_light.png)
+
 ## Features
 
 - ✨ Modern and responsive design
@@ -64,22 +76,6 @@ The application features a beautiful dark/light mode toggle:
 - Google Fonts (Poppins)
 - SVG animations
 
-## Setup and Installation
-
-1. Clone the repository:
-   ```bash
-   git clone [repository-url]
-   ```
-
-2. Navigate to the project directory:
-   ```bash
-   cd dk-todo-list
-   ```
-
-3. Open `todo.html` in your web browser
-
-No build process or dependencies required! The application runs directly in the browser.
-
 ## Browser Support
 
 The application works best on modern browsers:
@@ -102,3 +98,18 @@ Feel free to submit issues and enhancement requests!
 ## License
 
 © Wai Yan Phyo Oo. All rights reserved. 
+
+## 💻 Getting Started
+
+1. Clone the repo:
+git clone https://waiyanphyooo21.github.io/to-do.git
+2. Open `todo.html` in your browser or use Live Server in VS Code.
+
+## 📬 Contact
+
+- Email: dm@waiyanphyooo.online
+- GitHub: [@waiyanphyooo21](https://github.com/waiyanphyooo21)
+
+## ⭐️ Show Your Support
+
+If you like this project, consider giving it a ⭐️ on [GitHub](https://waiyanphyooo21.github.io/to-do/)!

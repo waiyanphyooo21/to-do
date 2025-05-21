@@ -103,7 +103,7 @@ Feel free to submit issues and enhancement requests!
 
 1. Clone the repo:
 git clone https://waiyanphyooo21.github.io/to-do.git
-2. Open `todo.html` in your browser or use Live Server in VS Code.
+2. Open `index.html` in your browser or use Live Server in VS Code.
 
 ## 📬 Contact
 
